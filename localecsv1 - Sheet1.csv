@@ -1,0 +1,201 @@
+City,State,Air_quality,Temperature ,Rainfall,Domestic_visits,Govtapproved_hotels,Forest_percentage,Unemployement rate,fully_vaccinated_per
+Port Blair,Andaman and Nicobar Islands,13,28,2805,0.03,0,,3.1,50.24
+Chirala,Andhra Pradesh,142,28,2999.2,10.5,33,22.51,5.4,39
+Guntur,Andhra Pradesh,152,29,871.5,10.5,33,22.51,5.4,39
+Hindupur,Andhra Pradesh,83,25,1813.4,10.5,33,22.51,5.4,39
+Kagaznagar,Andhra Pradesh,147,28,2010.7,10.5,33,22.51,5.4,39
+Kakinada,Andhra Pradesh,154,30,3399.4,10.5,33,22.51,5.4,39
+Kurnool,Andhra Pradesh,108,31,679.6,10.5,33,22.51,5.4,39
+Machilipatnam,Andhra Pradesh,153,29,876.3,10.5,33,22.51,5.4,39
+Nandyal,Andhra Pradesh,103,29,790.3,10.5,33,22.51,5.4,39
+Nellore,Andhra Pradesh,76,26,1091.6,10.5,33,22.51,5.4,39
+Ongole,Andhra Pradesh,122,29,945.2,10.5,33,22.51,5.4,39
+Proddatur,Andhra Pradesh,93,29,1003.4,10.5,33,22.51,5.4,39
+Rajahmundry,Andhra Pradesh,102,30,923.3,10.5,33,22.51,5.4,39
+Tirupati,Andhra Pradesh,52,21,898.2,10.5,33,22.51,5.4,39
+Visakhapatnam,Andhra Pradesh,163,28,1120.7,10.5,33,22.51,5.4,39
+Vizianagaram,Andhra Pradesh,153,28,1140.4,10.5,33,22.51,5.4,39
+Itanagar,Arunachal Pradesh,76,28,3801.4,0.03,3,93.03,4.2,35.19
+Dibrugarh,Assam,78,30,2556.6,0.32,13,23.62,3.7,24.19
+Dispur,Assam,97,28,2601.3,0.32,13,23.62,3.7,24.19
+Guwahati,Assam,68,29,1813.4,0.32,13,23.62,3.7,24.19
+Jorhat,Assam,76,30,2083,0.32,13,23.62,3.7,24.19
+Silchar,Assam,76,26,2113.8,0.32,13,23.62,3.7,24.19
+Tezpur,Assam,78,26,1945,0.32,13,23.62,3.7,24.19
+Arrah,Bihar,154,26,1632.2,1.81,6,6.64,13.9,15.21
+Bhagalpur,Bihar,154,27,1207.9,1.81,6,6.64,13.9,15.21
+Gaya,Bihar,148,29,1003.9,1.81,6,6.64,13.9,15.21
+Muzaffarpur,Bihar,164,26,1154.5,1.81,6,6.64,13.9,15.21
+Patna,Bihar,153,26,1074.8,1.81,6,6.64,13.9,15.21
+Purnia,Bihar,158,27,1598.2,1.81,6,6.64,13.9,15.21
+Chandigarh,Chandigarh,136,28,1070.6,0.08,9,3.02,2.4,48.1
+Bhilai,Chhattisgarh,152,29,1330.3,1.04,7,45.8,3.1,25.55
+Bilaspur,Chhattisgarh,117,28,1229,1.04,7,45.8,3.1,25.55
+Raipur,Chhattisgarh,152,29,1164.6,1.04,7,45.8,3.1,25.55
+Silvassa,Dadra and Nagar Haveli,127,31,2374.1,0.03,1,41.63,1.3,30.49
+Daman,Daman and Diu,151,29,2374.1,0.05,1,0,0.8,30.89
+Diu,Daman and Diu,142,30,697.3,0.05,1,0,0.8,30.89
+Delhi,Delhi,255,26,747.1,1.57,43,1,11,40.43
+New Delhi,Delhi,351,26,747.1,1.57,43,1,11,40.43
+Panaji,Goa,89,28,3085.6,0.38,46,34.75,11.7,58.96
+Ahmedabad,Gujarat,164,31,639.9,2.93,63,9.62,2.4,41.85
+Bhavnagar,Gujarat,120,29,679.9,2.93,63,9.62,2.4,41.85
+Bhuj,Gujarat,20,32,388.8,2.93,63,9.62,2.4,41.85
+Ghandinagar,Gujarat,159,30,752.7,2.93,63,9.62,2.4,41.85
+Anand,Gujarat,108,31,834.6,2.93,63,9.62,2.4,41.85
+Porbandar,Gujarat,110,31,716.6,2.93,63,9.62,2.4,41.85
+Rajkot,Gujarat,99,33,579.1,2.93,63,9.62,2.4,41.85
+Surat,Gujarat,153,32,1304.7,2.93,63,9.62,2.4,41.85
+Vadodara,Gujarat,122,30,992.2,2.93,63,9.62,2.4,41.85
+Ambala,Haryana,224,24,1104.7,0.26,144,0.86,30.7,29.27
+Bhiwani,Haryana,298,26,419.5,0.26,144,0.86,30.7,29.27
+Faridabad,Haryana,307,25,697.6,0.26,144,0.86,30.7,29.27
+Gurugram,Haryana,321,25,544,0.26,144,0.86,30.7,29.27
+Hisar,Haryana,304,26,577.8,0.26,144,0.86,30.7,29.27
+Karnal,Haryana,164,24,760.1,0.26,144,0.86,30.7,29.27
+Panchkula,Haryana,159,22,1148.2,0.26,144,0.86,30.7,29.27
+Panipat,Haryana,191,24,624.1,0.26,144,0.86,30.7,29.27
+Rohtak,Haryana,405,26,677.4,0.26,144,0.86,30.7,29.27
+Sirsa,Haryana,185,26,313.5,0.26,144,0.86,30.7,29.27
+Sonipat,Haryana,173,24,644.2,0.26,144,0.86,30.7,29.27
+Shimla,Himachal Pradesh,83,8,1041.4,0.92,144,24.61,14.1,48.83
+Baramula,Jammu and Kashmir,66,15,1132,0.92,27,56.65,22.2,41.18
+Jammu,Jammu and Kashmir,93,24,1211.3,0.92,27,56.65,22.2,41.18
+leh,Jammu and Kashmir,17,-3,84.6,0.92,27,56.65,22.2,41.18
+Srinagar,Jammu and Kashmir,45,11,673.6,0.92,27,56.65,22.2,41.18
+Kathua,Jammu and Kashmir,93,21,1268.2,0.92,27,56.65,22.2,41.18
+Dhanbad,Jharkhand,154,22,1289.8,1.91,4,28.1,18.1,15.27
+Jamshedpur,Jharkhand,147,28,1355.2,1.91,4,28.1,18.1,15.27
+Ranchi,Jharkhand,122,22,1256.1,1.91,4,28.1,18.1,15.27
+Jorapokhar,Jharkhand,155,23,1572.4,1.91,4,28.1,18.1,15.27
+Belgaum,Karnataka,96,23,839.2,11.55,36,16.13,1.5,35
+Bellary,Karnataka,97,26,622.8,11.55,36,16.13,1.5,35
+Bengaluru,Karnataka,79,21,837,11.55,36,16.13,1.5,35
+Bidar,Karnataka,91,23,890.7,11.55,36,16.13,1.5,35
+Bijapur,Karnataka,87,29,656.4,11.55,36,16.13,1.5,35
+Davangere,Karnataka,53,25,597,11.55,36,16.13,1.5,35
+Gulbarga,Karnataka,97,26,820.6,11.55,36,16.13,1.5,35
+Hospet,Karnataka,97,27,791.1,11.55,36,16.13,1.5,35
+Hubli,Karnataka,109,29,967.1,11.55,36,16.13,1.5,35
+Kolar,Karnataka,97,25,731.1,11.55,36,16.13,1.5,35
+Mangalore,Karnataka,72,28,712.8,11.55,36,16.13,1.5,35
+Mysore,Karnataka,77,28,758.6,11.55,36,16.13,1.5,35
+Raichur,Karnataka,104,28,874.1,11.55,36,16.13,1.5,35
+Shimoga,Karnataka,62,23,1827.9,11.55,36,16.13,1.5,35
+Alappuzha,Kerala,53,27,2841.2,0.84,529,27.83,5.4,40.32
+Calicut,Kerala,72,29,3384.1,0.84,529,27.83,5.4,40.32
+Kochi,Kerala,101,28,3029.9,0.84,529,27.83,5.4,40.32
+Kollam,Kerala,88,30,2491.7,0.84,529,27.83,5.4,40.32
+Thiruvananthapuram,Kerala,80,29,1803.2,0.84,529,27.83,5.4,40.32
+Kavaratti,Lakshadweep,42,28,1600,0,0,0,0.4,16.2
+Bhopal,Madhya Pradesh,116,28,1087.7,4.53,13,28.27,1.9,25.23
+Gwalior,Madhya Pradesh,258,24,885.9,4.53,13,28.27,1.9,25.23
+Indore,Madhya Pradesh,81,28,917.3,4.53,13,28.27,1.9,25.23
+Jabalpur,Madhya Pradesh,99,27,1192.4,4.53,13,28.27,1.9,25.23
+Ratlam,Madhya Pradesh,86,23,947.8,4.53,13,28.27,1.9,25.23
+Saugor,Madhya Pradesh,142,21,1152.6,4.53,13,28.27,1.9,25.23
+Ujjain,Madhya Pradesh,129,28,905.7,4.53,13,28.27,1.9,25.23
+Ahmadnagar,Maharashtra,99,27,573.2,6.43,105,16.91,4.3,25.52
+Akola,Maharashtra,120,27,815.4,6.43,105,16.91,4.3,25.52
+Amaravati,Maharashtra,153,30,897.4,6.43,105,16.91,4.3,25.52
+Aurangabad,Maharashtra,124,29,716.2,6.43,105,16.91,4.3,25.52
+Bhiwandi,Maharashtra,130,30,681.7,6.43,105,16.91,4.3,25.52
+Bhusaval,Maharashtra,112,26,811.4,6.43,105,16.91,4.3,25.52
+Chanda,Maharashtra,153,24,698.4,6.43,105,16.91,4.3,25.52
+Kalyan,Maharashtra,126,30,789.3,6.43,105,16.91,4.3,25.52
+Kolhapur,Maharashtra,99,25,1992.8,6.43,105,16.91,4.3,25.52
+Latur,Maharashtra,103,25,910,6.43,105,16.91,4.3,25.52
+Malegaon Camp,Maharashtra,108,28,748.5,6.43,105,16.91,4.3,25.52
+Mumbai,Maharashtra,153,31,2257.5,6.43,105,16.91,4.3,25.52
+Nanded,Maharashtra,110,24,961.1,6.43,105,16.91,4.3,25.52
+Nashik,Maharashtra,132,27,1029.6,6.43,105,16.91,4.3,25.52
+Parbhani,Maharashtra,108,25,897,6.43,105,16.91,4.3,25.52
+Pune,Maharashtra,110,27,1015.7,6.43,105,16.91,4.3,25.52
+Sangli,Maharashtra,99,27,830.6,6.43,105,16.91,4.3,25.52
+Imphal,Manipur,59,23,1839.2,0.01,2,80.25,8.7,24.31
+Shillong,Meghalaya,20,17,6166.1,0.06,2,42.2,1.8,20.17
+Aizawl,Mizoram,15,15,2814.4,0,1,77.75,9.6,42.05
+Kohima,Nagaland,53,12,1824.8,0.01,1,52.23,8.4,22.4
+Bhubaneshwar,Odisha,160,27,1448.3,0.02,8,37.46,1.1,26.97
+Brahmapur,Odisha,163,23,1323.4,0.02,8,37.46,1.1,26.97
+Cuttack,Odisha,159,27,1519.7,0.02,8,37.46,1.1,26.97
+Puri,Odisha,160,28,1416.2,0.02,8,37.46,1.1,26.97
+Raurkela,Odisha,122,21,1008.3,0.02,8,37.46,1.1,26.97
+Brajrajnagar,Odisha,154,27,998.4,0.02,8,37.46,1.1,26.97
+Talcher,Odisha,119,22,1141.5,0.02,8,37.46,1.1,26.97
+Puducherry,Puducherry,30,27,1336.5,0.09,3,0.82,6,29.11
+Abohar,Punjab,164,26,801.3,2.4,8,5.08,11.4,21.1
+Amritsar,Punjab,149,25,721.7,2.4,8,5.08,11.4,21.1
+Haripur,Punjab,95,22,786,2.4,8,5.08,11.4,21.1
+Ludhiana,Punjab,258,24,685.6,2.4,8,5.08,11.4,21.1
+Pathankot,Punjab,103,21,732.5,2.4,8,5.08,11.4,21.1
+Patiala,Punjab,168,25,752,2.4,8,5.08,11.4,21.1
+Ajmer,Rajasthan,110,25,462.2,2.71,115,8,29.6,25.14
+Alwar,Rajasthan,160,25,630.9,2.71,115,8,29.6,25.14
+Bharatpur,Rajasthan,182,25,621.1,2.71,115,8,29.6,25.14
+Bhilwara,Rajasthan,147,24,630.2,2.71,115,8,29.6,25.14
+Bikaner,Rajasthan,130,28,274,2.71,115,8,29.6,25.14
+Jaipur,Rajasthan,165,28,577.2,2.71,115,8,29.6,25.14
+Jodhpur,Rajasthan,116,28,308.1,2.71,115,8,29.6,25.14
+Pali,Rajasthan,151,27,485.7,2.71,115,8,29.6,25.14
+Sikar,Rajasthan,130,25,463.8,2.71,115,8,29.6,25.14
+Tonk,Rajasthan,161,26,613.9,2.71,115,8,29.6,25.14
+Udaipur,Rajasthan,167,27,639.7,2.71,115,8,29.6,25.14
+Gangtok,Sikkim,152,11,2582.2,0.08,10,76.02,10,65.76
+Chennai,Tamil Nadu,57,25,1324.2,20.8,70,16.31,4.9,23.16
+Coimbatore,Tamil Nadu,46,27,689.3,20.8,70,16.31,4.9,23.16
+Cuddalore,Tamil Nadu,61,27,1206.7,20.8,70,16.31,4.9,23.16
+Dindigul,Tamil Nadu,81,25,930.7,20.8,70,16.31,4.9,23.16
+Karur,Tamil Nadu,76,27,655,20.8,70,16.31,4.9,23.16
+Kumbakonam,Tamil Nadu,72,26,534.6,20.8,70,16.31,4.9,23.16
+Madurai,Tamil Nadu,20,25,927.9,20.8,70,16.31,4.9,23.16
+Nagercoil,Tamil Nadu,42,29,1393.3,20.8,70,16.31,4.9,23.16
+Rajapalaiyam,Tamil Nadu,53,27,745.3,20.8,70,16.31,4.9,23.16
+Salem,Tamil Nadu,33,25,997.9,20.8,70,16.31,4.9,23.16
+Thanjavur,Tamil Nadu,24,31,1013.1,20.8,70,16.31,4.9,23.16
+Tiruchirappalli,Tamil Nadu,59,31,818,20.8,70,16.31,4.9,23.16
+Tirunelveli,Tamil Nadu,72,31,845.1,20.8,70,16.31,4.9,23.16
+Vellore,Tamil Nadu,54,25,936.2,20.8,70,16.31,4.9,23.16
+Adilabad,Telangana,142,24,1120,5.01,33,22.66,4.2,26.42
+Hyderabad,Telangana,139,26,851.3,5.01,33,22.66,4.2,26.42
+Karimnagar,Telangana,112,24,979.8,5.01,33,22.66,4.2,26.42
+Khammam,Telangana,120,25,1094.9,5.01,33,22.66,4.2,26.42
+Nalgonda,Telangana,135,25,760.5,5.01,33,22.66,4.2,26.42
+Nizamabad,Telangana,117,23,1091.9,5.01,33,22.66,4.2,26.42
+Ramagundam,Telangana,120,24,876.3,5.01,33,22.66,4.2,26.42
+Warangal,Telangana,108,24,986.9,5.01,33,22.66,4.2,26.42
+Agartala,Tripura,93,30,2286.7,0.02,1,59.99,9.9,41.52
+Agra,Uttar Pradesh,337,29,774.6,15.37,134,6.86,4.2,14.24
+Aligarh,Uttar Pradesh,175,29,771,15.37,134,6.86,4.2,14.24
+Allahabad,Uttar Pradesh,171,28,902.6,15.37,134,6.86,4.2,14.24
+Bareilly,Uttar Pradesh,175,26,996.6,15.37,134,6.86,4.2,14.24
+Budaun,Uttar Pradesh,189,27,884.8,15.37,134,6.86,4.2,14.24
+Bulandshahr,Uttar Pradesh,198,28,779,15.37,134,6.86,4.2,14.24
+Firozabad,Uttar Pradesh,302,29,765.5,15.37,134,6.86,4.2,14.24
+Fyzabad,Uttar Pradesh,159,26,114,15.37,134,6.86,4.2,14.24
+Ghaziabad,Uttar Pradesh,253,26,995.8,15.37,134,6.86,4.2,14.24
+Gopalpur,Uttar Pradesh,163,26,734.1,15.37,134,6.86,4.2,14.24
+Hapur,Uttar Pradesh,222,26,801.3,15.37,134,6.86,4.2,14.24
+Hata,Uttar Pradesh,158,26,992.3,15.37,134,6.86,4.2,14.24
+Jhansi,Uttar Pradesh,161,28,668,15.37,134,6.86,4.2,14.24
+Lucknow,Uttar Pradesh,211,28,703.3,15.37,134,6.86,4.2,14.24
+Mathura,Uttar Pradesh,212,29,911.7,15.37,134,6.86,4.2,14.24
+Meerut,Uttar Pradesh,185,28,1255.99,15.37,134,6.86,4.2,14.24
+Mirzapur,Uttar Pradesh,147,29,840.2,15.37,134,6.86,4.2,14.24
+Moradabad,Uttar Pradesh,176,27,677.8,15.37,134,6.86,4.2,14.24
+Muzaffarnagar,Uttar Pradesh,154,27,774.7,15.37,134,6.86,4.2,14.24
+Pilibhit,Uttar Pradesh,155,25,847.3,15.37,134,6.86,4.2,14.24
+Saidpur,Uttar Pradesh,153,30,821.7,15.37,134,6.86,4.2,14.24
+Shahbazpur,Uttar Pradesh,152,26,675.7,15.37,134,6.86,4.2,14.24
+Etawah,Uttar Pradesh,167,28,775.9,15.37,134,6.86,4.2,14.24
+Varanasi,Uttar Pradesh,129,30,889.8,15.37,134,6.86,4.2,14.24
+DehraDun,Uttarakhand,99,23,2123.9,1.92,53,63.41,3.3,35.65
+Alipurduar,West Bengal,103,26,1113,4.62,27,13.5,5.6,22.59
+Asansol,West Bengal,141,28,1330.5,4.62,27,13.5,5.6,22.59
+Barddhaman,West Bengal,155,27,1315.2,4.62,27,13.5,5.6,22.59
+Bhatpara,West Bengal,161,27,1383.5,4.62,27,13.5,5.6,22.59
+Haldia,West Bengal,130,28,1261.6,4.62,27,13.5,5.6,22.59
+Haora,West Bengal,159,29,1600,4.62,27,13.5,5.6,22.59
+Kolkata,West Bengal,157,29,1709.2,4.62,27,13.5,5.6,22.59
+Krishnanagar,West Bengal,154,28,1391.1,4.62,27,13.5,5.6,22.59
+Shiliguri,West Bengal,142,26,3118.5,4.62,27,13.5,5.6,22.59
